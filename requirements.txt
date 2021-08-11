@@ -1,2 +1,3 @@
 Django
 djangorestframework
+flak8>=3.9.2 
